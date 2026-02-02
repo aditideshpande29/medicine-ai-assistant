@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+uploads/
+dose_log.json
+
